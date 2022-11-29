@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, C#, .NET**
 
-- ⚡ Fun fact **I retired from the U.S. Navy**
+- ⚡ Fun fact **I retired from the U.S. Navy after 20 years and I was a High School Teacher for 2 years.**
 
 - 📫 How to reach me **casey.spaulding@gmail.com**
 
