@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Casey</h1>
 <h3 align="center">A passionate .NET Software Developer from Orlando, FL</h3>
 
-- 🔭 I’m currently working on **Issue Tracking Software Systems**
+- 🔭 I’m currently working on **Issue Tracking Software System**
 
 - 📝 I regularly write articles on **www.CodeTalk.blog**
 
