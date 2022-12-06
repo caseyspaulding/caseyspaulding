@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Casey</h1>
+<h1 align="center">Hi, I'm Casey</h1>
 <h3 align="center">.NET Software Developer from Orlando, FL</h3>
 
 - 🔭 I’m currently working on **Issue Tracking Software System**
