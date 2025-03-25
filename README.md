@@ -4,7 +4,7 @@ I enjoy building software, fixing things, reading, and spending time with my fam
 
 ## 🛠️ Skills/Tech
 
-- .NET, C#, Python, TypeScript, Tailwind, SQL Server, EF Core, Nextjs, Angular.
+- .NET, C#, Python, TypeScript, SQL Server, EF Core, Nextjs, Angular.
 - Azure 
 - Follower of Extreme Programming and Clean Code.
 
